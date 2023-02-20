@@ -1,0 +1,21 @@
+body {
+  background-color: #fff; /*bgc#fff */
+  color: #555; /* c#fff */
+}
+header {
+  background-color: hsla(14, 82%, 31%, 0.925); /* bgc#833b83 */
+  color: #fff; /* c#fff */
+}
+nav {
+  background-color: hsl(177, 37%, 45%); /* bgc#bbdefb */
+}
+h2 {
+  color: hsl(135, 79%, 46%); /* c#1976d2 */
+}
+dt {
+  color: hwb(241 6% 31%); /* c#002170 */
+}
+
+.yoga {
+  color: #19d222; /* c#19d222 */
+}
